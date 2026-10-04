@@ -105,7 +105,7 @@ The authentication mechanism was tested for security weaknesses.
 
 ### Evidence
 
-![Patient Login](screenshots/Screenshot1.png)
+![Patient Login](Screenshot1.png)
 
 ---
 
@@ -123,7 +123,7 @@ These files were used for the next stage of the security assessment.
 
 ### Evidence
 
-![Patient Reports](screenshots/Screenshot2.png)
+![Patient Reports](Screenshot2.png)
 
 ---
 
@@ -135,7 +135,7 @@ A PDF hash was extracted from the protected document for password security testi
 
 ### Evidence
 
-![PDF Hash](screenshots/Screenshot3.png)
+![PDF Hash](Screenshot3.png)
 
 ---
 
@@ -153,7 +153,7 @@ This demonstrated the weakness of using common passwords to protect sensitive do
 
 ### Evidence
 
-![Password Cracking](screenshots/Screenshot4.png)
+![Password Cracking](Screenshot4.png)
 
 ---
 
@@ -167,7 +167,7 @@ Directory listing was enabled, allowing files within the directory to be viewed.
 
 ### Evidence
 
-![Old Directory](screenshots/Screenshot5.png)
+![Old Directory](Screenshot5.png)
 
 ---
 
@@ -185,11 +185,11 @@ The exposed information included staff and shareholder records.
 
 ### Staff Data
 
-![Staff Database](screenshots/Screenshot6.png)
+![Staff Database](Screenshot6.png)
 
 ### Shareholder Data
 
-![Shareholder Database](screenshots/Screenshot7.png)
+![Shareholder Database](Screenshot7.png)
 
 ---
 
@@ -315,29 +315,6 @@ The assessment involved the following tools and techniques:
 * Manual penetration testing
 
 ---
-
-# Repository Structure
-
-```text
-NETWORKWALKS-B083-WK4-PM1-MEDIROZA-PENETRATION-TESTING/
-│
-├── README.md
-│
-├── penetration-testing-report/
-│   └── Penetration_Testing_Report.md
-│
-└── screenshots/
-    ├── Screenshot1.png
-    ├── Screenshot2.png
-    ├── Screenshot3.png
-    ├── Screenshot4.png
-    ├── Screenshot5.png
-    ├── Screenshot6.png
-    └── Screenshot7.png
-```
-
----
-
 # Conclusion
 
 The Week 4 Mediroza Hospital penetration testing project demonstrated how multiple security weaknesses can be identified through systematic reconnaissance and security testing.
